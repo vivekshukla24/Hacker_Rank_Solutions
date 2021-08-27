@@ -13,7 +13,7 @@ If more than 1 type has been spotted that maximum amount, return the smallest of
         int: the lowest type id of the most frequently sighted birds **/
 
 //Difficulty - Easy
-//Number of Test Cases - 5
+//Number of Test Cases - 6
 //Solution
 
 import java.util.HashMap;
