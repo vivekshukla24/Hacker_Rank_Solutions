@@ -20,6 +20,10 @@ Returns
 string: the string ' + "\n" + ' where and are the two substrings
 **/
 
+
+// Author @vivekshukla24 + https://www.linkedin.com/in/versesshukla/
+
+
 //Difficulty - Easy
 //Number of Test Cases - 7
 //Solution
