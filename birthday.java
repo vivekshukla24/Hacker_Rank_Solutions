@@ -4,6 +4,9 @@ You have decided the cake will have one candle for each year of their total age.
 They will only be able to blow out the tallest of the candles. Count how many candles are tallest. 
 **/
 
+// Author @vivekshukla24 + https://www.linkedin.com/in/versesshukla/
+
+
 //Difficulty - Easy
 //Number of Test Cases - 8
 //Solution
