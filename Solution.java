@@ -13,6 +13,10 @@ Function Description
 //Number of Test Cases - 17
 //Solution
 
+
+// Author @vivekshukla24 + https://www.linkedin.com/in/versesshukla/
+
+
 import java.util.Scanner;
 
 public class Solution {
