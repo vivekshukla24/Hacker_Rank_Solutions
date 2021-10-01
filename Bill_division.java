@@ -9,8 +9,10 @@ bonAppetit has the following parameter(s):
 1) bill: an array of integers representing the cost of each item ordered
 2) k: an integer representing the zero-based index of the item Anna doesn't eat
 3) b: the amount of money that Anna contributed to the bill
-
 **/
+
+// Author @vivekshukla24 + https://www.linkedin.com/in/versesshukla/
+
 
 //Difficulty - Easy
 //Test cases - 6
