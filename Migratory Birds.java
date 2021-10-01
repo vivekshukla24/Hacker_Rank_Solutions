@@ -12,6 +12,9 @@ If more than 1 type has been spotted that maximum amount, return the smallest of
         Returns
         int: the lowest type id of the most frequently sighted birds **/
 
+// Author @vivekshukla24 + https://www.linkedin.com/in/versesshukla/
+
+
 //Difficulty - Easy
 //Number of Test Cases - 6
 //Solution
