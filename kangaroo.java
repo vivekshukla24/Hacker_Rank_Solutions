@@ -6,6 +6,9 @@ You have to figure out a way to get both kangaroos at the same location at the s
 
 **/
 
+// Author @vivekshukla24 + https://www.linkedin.com/in/versesshukla/
+
+
 //Difficulty - Easy
 //Test cases - 30
 //Solution
