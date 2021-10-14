@@ -1,5 +1,7 @@
 /** 
-Two strings, a and b, are called anagrams if they contain all the same characters in the same frequencies. For this challenge, the test is not case-sensitive. For example, the anagrams of CAT are CAT, ACT, tac, TCA, aTC, and CtA.
+Two strings, a and b, are called anagrams if they contain all the same characters in the same frequencies. 
+For this challenge, the test is not case-sensitive. 
+For example, the anagrams of CAT are CAT, ACT, tac, TCA, aTC, and CtA.
 
 Function Description
 -Complete the isAnagram function in the editor.
