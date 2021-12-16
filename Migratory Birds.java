@@ -44,6 +44,7 @@ public class Migratory_birds {
                 birds.put(array[i],1);
             }
         }
+        //Used to Sort the Hash-Map
         TreeMap<Integer,Integer> sorted_birds=new TreeMap<>();
         sorted_birds.putAll(birds);
         int max=Integer.MIN_VALUE;
